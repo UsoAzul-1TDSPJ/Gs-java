@@ -1,6 +1,6 @@
 package br.com.fiap.models;
 
-public class Usuario {
+abstract class Usuario {
     private String nome;
     private String email;
     private String endereco;
